@@ -1,6 +1,6 @@
 # Linky 🔗
 
-### Best link-shortner ever made under MIT Lisence!
+### Best link-shortner ever made under MIT License!
 
 ### Do you have a pretty long link like this?
 
